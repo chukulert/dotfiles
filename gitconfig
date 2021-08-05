@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dantwq90@gmail.com
+	name = daniel tan
